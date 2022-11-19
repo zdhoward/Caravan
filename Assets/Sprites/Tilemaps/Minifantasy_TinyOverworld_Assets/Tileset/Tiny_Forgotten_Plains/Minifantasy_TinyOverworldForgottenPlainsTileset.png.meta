@@ -1,0 +1,4183 @@
+fileFormatVersion: 2
+guid: 09df9dadf23c7d544ae11e21b4223e17
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5839b2d3b079f741ba9b144ce6d9fb6
+      internalID: 9129851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc071e03518354e9e292e71c87872c
+      internalID: 589973086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd784458bb4fd1244a9ba43049e4ee6d
+      internalID: -178279576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bfc7c81ce312b4e8b0ac01e6826c1b
+      internalID: 94344041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ba5c6fa0d63045821977aeac21209
+      internalID: 228806819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753abef08dc262f4fb6004ff032a3d44
+      internalID: -1349856072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf30968ede9f04484daca5c4066e6d
+      internalID: -398491929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d672e60c7097610468838ae12198d116
+      internalID: -2138979998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca31826cd586c4484d67167353c3c7
+      internalID: 2134407990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296fe0e61281d7341aa330797f6be432
+      internalID: 475601377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc7286a98e030b40a2553e6179aa788
+      internalID: 1779440253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284bd61a9ac371b4fa2fbab0e4e30565
+      internalID: -1147527914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e12d7cd4d901646b0f2019462f41b4
+      internalID: 581630892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa16229c7274f574fbd1eacb522f172e
+      internalID: -759047702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22789513f9807df43b07ba8946108f7b
+      internalID: 816568526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab46e353be0491e45a66dd3b77db5888
+      internalID: -371811561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1434452289ab3439a4d610b6466120
+      internalID: 767638787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7834942eecb1a67449de6c1a4c4b1246
+      internalID: -587267707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44947127a4951fd4abe813c826974b7b
+      internalID: 1868962702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304bd127253ca1c44b76398597de22cf
+      internalID: -1056573064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f50100819f1b46a6ba0fbb39f08bb
+      internalID: -669752253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83eec1436f7974c9831fd82ccc4869
+      internalID: -740777315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4461f86633e134aa8a8e5a7da8772e
+      internalID: -1796938534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a142372cf79a9478a65e618f047fe9
+      internalID: 374321481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099a0dc0bcc5b7478b665afecb8ff88
+      internalID: -1405507072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8878a5df1e3f2c48a73570e5c676871
+      internalID: -1593297551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060e73faa9145a4891f2e42d6209086
+      internalID: 1712235682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024fe53ae8cd2124ba5cbc207cc6cd69
+      internalID: -1192492642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d03d9108fb5cc41b10a46426325a9c
+      internalID: -1043040841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6145cf789ae0724381f64e1506320c3
+      internalID: 237383533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4282d74d3eaa604b96ec2eeadb2fe7f
+      internalID: 2123436103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca60c8a9029d64db381324b1bc221e
+      internalID: -1618759371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142dae6bbe46824f8f686ba7ba8ce42
+      internalID: 967896038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd76411f3828847ab901e4ff77bbc3
+      internalID: 1014904873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b25d289bfc22d4b88cfb866a97e27d
+      internalID: 928844047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a956ff12cf544299a566bc147cdb4
+      internalID: 1616047655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e439672acc285cc41b7caa94c1a45a37
+      internalID: 98337531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff86ada75a280e4aaeaa0595314c714
+      internalID: 1156866205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f7e46912ca86459ba05fb60d7f705
+      internalID: 198435865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665416b06425e0d4097fa5d72f2e586a
+      internalID: 332711178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70da4444a308f47a1bed3c131b40cf
+      internalID: -1006879212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f444f8cdc9c642912499358fb15fb
+      internalID: 528031883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872a68d9e7caae4e968c1c48e810e74
+      internalID: -1625336476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239483f943122f3498d4667ef05630eb
+      internalID: -1043788308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf798b018dfcc254a93cf5473b1f3564
+      internalID: -1006538059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b5d967a433ca46a257a2868a1380d
+      internalID: 1420307027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5b111127dc9846aa27a4339857866
+      internalID: -1604165938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce21d1cfb5cfe4bab120ca3cc20284
+      internalID: 1966793465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec439bbad139264b9b5ccc9574316bf
+      internalID: 1164262607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97523d83b2cca42957cc3cdb2b49a9
+      internalID: 1346626931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b59e0f347f08b4db52df9441e43e70
+      internalID: 1261007400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c18ce87ef4c36409e15d77b8090807
+      internalID: -2128324353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a96a9f16418b4d8571e0870730206
+      internalID: 1630439385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67817af703af240b2dcc8636183f97
+      internalID: -1044476692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3df1e79d14d874784d329b83cf2d4b
+      internalID: 97339785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec4ed3f70d92f143987d082be3393a9
+      internalID: -1484368599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd1084714b18c4ab6c4463b408afb9
+      internalID: -274879087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a009cd038baf8488ee5a99a975c590
+      internalID: -394809410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e8f0f3997175459bd38e2842b0d26
+      internalID: 197021314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347496858a84c5418329f8f43f2c1c1
+      internalID: -1480859175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6439118cddc934b96e615de01c1560
+      internalID: 1808500774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c92c3bc0ffb3948811034edab23323
+      internalID: -466941261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d40e2f8f958a542baca42a659bb15a
+      internalID: -1880615798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b974ce4ff3d414180e0a271ae13d86
+      internalID: -2112707840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3203e94efa9d4409450ccfc2775f84
+      internalID: -279095433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c3b6f721594e4aa240a6ac2fca7b7
+      internalID: -298582375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172891b42ae8fa54ea8c67f1b3fb9a4d
+      internalID: -1879515998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba83dc9fcba62042b6155320de6ab65
+      internalID: -152077311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ef47bc8f059047a49c3558a521f21
+      internalID: -1524655036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d305aa033df0a45bf176318a6a088a
+      internalID: 2091350149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e186ed8626eb42a16966080c8bf23
+      internalID: -519480129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c767d064fa8b418b0c89ef039a230
+      internalID: -2053762334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595ccdaa5c17794e920d9a270805015
+      internalID: -1294682732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebf47e7731f7e41b908500180e9971
+      internalID: 25266531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2879083d015d77e45bd3149699d89af5
+      internalID: -730543022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e21803486995c488fdc73c862d0f79
+      internalID: 234765681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5dd5d8c39394f4aba20e3de3618407
+      internalID: -494484645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb4490961834049ac7abb6c9a9ad36
+      internalID: 1033638446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b857d10b3baf3408899b68f4ff9e9c
+      internalID: 85332423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04e4255a52f91498850a2019d77c4b
+      internalID: -2046313426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ade7d1150489c4ca1a108742e00d4d
+      internalID: -1079776644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c3b3cd15a26244bc27a60bd494c49
+      internalID: -1573717968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef74d50b8859664aa65d45a3eb3583f
+      internalID: 569971784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58d9c53031248409371834cd167616
+      internalID: -1077394908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff00bf60480075418077778d03d85e1
+      internalID: 1591546233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_85
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9305b680da3f4a9df2e30caf210a7
+      internalID: -590787056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906d5d9fe4ab4b2448f60bdcd640e87c
+      internalID: -779296814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abbe84d781696f4fb6fe164d52fa8e9
+      internalID: -560100992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04a892b58377f45a4955eaac5ea9b2
+      internalID: 1789820166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4df2a08b865a14094e387c0133e46f
+      internalID: -858764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_90
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4311aa7a1de0b47af9f18fa12074e9
+      internalID: 2008093645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e298117316134eb6b32c88800b33b
+      internalID: 772508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9377bf3a4db00c45b572164e8e234bf
+      internalID: 1026407591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_93
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb80ee0daafeb4d96e0eec0a1496c6
+      internalID: 2110784725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ec903e599607e41b01822354301063
+      internalID: 783438812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f9f5a2a3ea454d840b89d45b9ce54
+      internalID: -350575159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43df3d5acab521499f2cbe4b8e0c33e
+      internalID: 162816823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327b4b1a62493b4fab59514614557fd
+      internalID: -1794469106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff112185347fa894a93be0398d0179c0
+      internalID: 1180471354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07485a163d1ade94c8d75aa0d34e771a
+      internalID: -1020526286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_100
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ca6e05ab693704d9eb90385351f819
+      internalID: -1693329925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_101
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51259fad819288f459af8855fb88ee67
+      internalID: -1506836257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4d315254096446a84c01a2a58122b
+      internalID: 1266001764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7561c5a3e7ef4fa905e90ba569ebd
+      internalID: 1967132756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ff25f55d3010469b4e4643ca30390
+      internalID: -934979561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_105
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ebc3585935f2545a55a815910da0e1
+      internalID: 1969104372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_106
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2461cf2a36df05149af096b89329f3da
+      internalID: -304147355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0fa4715a943440b27ac54c6d3bc54
+      internalID: 943079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fa387eb4d6b24686b98fefd87edf6
+      internalID: 1674209445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_109
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94d65f8c337174e8116248b34f7480
+      internalID: -1064410912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9a999a8f35f24887ffc995eb646e6
+      internalID: 860214323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61899573b0ef77541ac59f2f3047a0cc
+      internalID: 301573747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_112
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2ec8e65cb94b47ab01fbadc0bb9d4
+      internalID: -589999102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759a7466b4831547af2d177eeec2f4d
+      internalID: 483319973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b31e59de4071840a24ec1f8a46d83a
+      internalID: -116622757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_115
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5f540f135b5743a2be012e8d54945
+      internalID: 172098087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0eef69df3ac6a46a4fa2c62fa69d47
+      internalID: 1424359209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e786b708ebb6408bd04c91a0a64a7
+      internalID: 1154705881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba706fbb8248d4081c58168436dbe0
+      internalID: 37786209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_119
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae17259ffee214b9858bf23111eac1
+      internalID: 1929538183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_120
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015b64095defb74f96c97e99d2a4ff3
+      internalID: -436492587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cfcda4082e904eacaa30251a9d14c
+      internalID: -1563692936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022fb757c3b5f64297ffd02dee65216
+      internalID: -664022058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3aeace31f09a240ab43c115a534588
+      internalID: -1741206060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_124
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3b026e95bb3d4d9308c96c718a0f2
+      internalID: 1921874718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592060f1d79a6a42ad91f7a0ba8da14
+      internalID: 1517247503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_126
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6ec0bc4cafc14e9237ec439c5bc9f
+      internalID: 1157835130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ec89f86ee37548a3dd882cc7ddd55
+      internalID: -1795084624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_128
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2598affba006ae47877387bab0a1581
+      internalID: -389984423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_129
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e5859d62d7c84cb44e9a749930bf9
+      internalID: -1088773166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e280996864c564a819a5834f5f2544
+      internalID: -1868893236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7ed8f0f9a65048b78de3df34e6688
+      internalID: 1093435241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_132
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175504959853c14893b64dc4185e23a
+      internalID: -1369073496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_133
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6244682e912ffea4596a8c0d35455d01
+      internalID: -405878187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_134
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad7a6812f1520448b8831d89561220
+      internalID: 930680354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c85a748027d3468bab71c787c072b
+      internalID: 989750720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_136
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d34ec492e91a644817564516b22c7a
+      internalID: -40816597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a9c6cc0436c104dba0c9dc6268f677
+      internalID: 794143733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_138
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1eb054c3e77e64bb81c50b125ba6db
+      internalID: 259365199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd25b5b9e4543244b65bbed269ac9ab
+      internalID: -1519354126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_140
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58dcd37a95035046a4ab79e1f8bd237
+      internalID: 498987210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_141
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050a3add2fce15a4cb3f0ff9a051a3b4
+      internalID: -964650748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_142
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f095544f86dfa14b988df91d9ed6d7b
+      internalID: 1169158298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_143
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126c87a9b596e48448f529c324f636f7
+      internalID: -1325021840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_144
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf59abc93b3ed64fa72933eb378df52
+      internalID: 563289189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_145
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205c080dc679164b99ce23d20f00021
+      internalID: -2066995750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_146
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c4cbbb7f379d41aa82e5f3da4161e
+      internalID: -1655911235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_147
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776115381381d64996b9b5479347c47
+      internalID: -1111041846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_148
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb6c1fef79c9b449e9bebb6ea956aa
+      internalID: 1975699629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdc4a01abdfc64c94a7052d8d59943
+      internalID: -779680050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_150
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b45751811dcca48b8ffcd4b1dd35a9
+      internalID: 904561028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9706d83376ad24a96f6deb5692a9d4
+      internalID: 2003545307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10cf20350c1e049914dae18685dc76
+      internalID: 1591849703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_153
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47976b59406c944e9f19465729b8b39
+      internalID: -352631686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_154
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4765ac6b4e845a14bbf8b9d5d69ac5e8
+      internalID: 1902348946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3b4fe9e39b4744af439575a07e8e9
+      internalID: 1946331878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_156
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf965a2a811de4f40b744c6eb8967eef
+      internalID: -1528187537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_157
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfaa20bce8184949990f2cb704c1229
+      internalID: -1278430342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8483f52561d3b9479a89c29c75e4b48
+      internalID: 1108158940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_159
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db006e3ee0cca4f4d9dd1c98c7c9ea99
+      internalID: 1809950914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af1766b49404a14f93b42e102b00aeb
+      internalID: 1249263912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_161
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecdecc0d9a87c44f974e50704969d81
+      internalID: 189118603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223d2fceb75bcb9438515318a512e797
+      internalID: -398888404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d8894d90061d4e8c5baa8b724deef
+      internalID: 107111206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_164
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e86ee28292bf4daaede2acfbb2800
+      internalID: -1043437729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_165
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598b6da543aaad44bed70fca15ace56
+      internalID: 1658666697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6139eac12afd704a95f22e1fd8d54f9
+      internalID: 1655516597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_167
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618cdf851655acd4e8ac90a617c1d2ed
+      internalID: -30890328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_168
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069153b057711e48924a82f42055282
+      internalID: -2084922932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_169
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494930830d5904c46ae04936e04f4dc2
+      internalID: 2016176756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c8149cc4db934d831cb77473b9583
+      internalID: 1171803472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_171
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba5db353da83c42a8142b9afe64867
+      internalID: -1516300215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_172
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70900f5b483866f45939b907a39a7c19
+      internalID: 1831642676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_173
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518f6b907e5da64f8d082c4202ae2a2
+      internalID: -2086325974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96104c2fe9c9449bf86eff340643ff
+      internalID: -1140788955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_175
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc790af6d674d4189d115158377599
+      internalID: -1058918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_176
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f0bdfa392deb4a923773be159066a
+      internalID: 740466041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_177
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83612376b3c544caa948bcf565f45d
+      internalID: -886537953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b8d546a510964797a4a16cb9d76d1
+      internalID: -1178013272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_179
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b45e5c2bc39fb40b26c5d4f3675e17
+      internalID: -155466040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_180
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f667252245025c443befa86ba9f6571d
+      internalID: -58940094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_181
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6539a855e0ba74d968a828fba6a8a4
+      internalID: 2060658423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_182
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbd5412c9bb7554bb26c28d884ac928
+      internalID: -1721659410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_TinyOverworldForgottenPlainsTileset_183
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cefc0e9f375204fa6464067de7b505
+      internalID: 1751370061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Minifantasy_TinyOverworldForgottenPlainsTileset_53: -1044476692
+      Minifantasy_TinyOverworldForgottenPlainsTileset_55: -1484368599
+      Minifantasy_TinyOverworldForgottenPlainsTileset_59: -1480859175
+      Minifantasy_TinyOverworldForgottenPlainsTileset_30: 2123436103
+      Minifantasy_TinyOverworldForgottenPlainsTileset_132: -1369073496
+      Minifantasy_TinyOverworldForgottenPlainsTileset_78: 85332423
+      Minifantasy_TinyOverworldForgottenPlainsTileset_27: -1192492642
+      Minifantasy_TinyOverworldForgottenPlainsTileset_52: 1630439385
+      Minifantasy_TinyOverworldForgottenPlainsTileset_91: 772508426
+      Minifantasy_TinyOverworldForgottenPlainsTileset_4: 228806819
+      Minifantasy_TinyOverworldForgottenPlainsTileset_14: 816568526
+      Minifantasy_TinyOverworldForgottenPlainsTileset_154: 1902348946
+      Minifantasy_TinyOverworldForgottenPlainsTileset_179: -155466040
+      Minifantasy_TinyOverworldForgottenPlainsTileset_143: -1325021840
+      Minifantasy_TinyOverworldForgottenPlainsTileset_138: 259365199
+      Minifantasy_TinyOverworldForgottenPlainsTileset_13: -759047702
+      Minifantasy_TinyOverworldForgottenPlainsTileset_56: -274879087
+      Minifantasy_TinyOverworldForgottenPlainsTileset_127: -1795084624
+      Minifantasy_TinyOverworldForgottenPlainsTileset_10: 1779440253
+      Minifantasy_TinyOverworldForgottenPlainsTileset_43: -1043788308
+      Minifantasy_TinyOverworldForgottenPlainsTileset_46: -1604165938
+      Minifantasy_TinyOverworldForgottenPlainsTileset_54: 97339785
+      Minifantasy_TinyOverworldForgottenPlainsTileset_148: 1975699629
+      Minifantasy_TinyOverworldForgottenPlainsTileset_156: -1528187537
+      Minifantasy_TinyOverworldForgottenPlainsTileset_0: 9129851
+      Minifantasy_TinyOverworldForgottenPlainsTileset_3: 94344041
+      Minifantasy_TinyOverworldForgottenPlainsTileset_161: 189118603
+      Minifantasy_TinyOverworldForgottenPlainsTileset_50: 1261007400
+      Minifantasy_TinyOverworldForgottenPlainsTileset_109: -1064410912
+      Minifantasy_TinyOverworldForgottenPlainsTileset_16: 767638787
+      Minifantasy_TinyOverworldForgottenPlainsTileset_175: -1058918174
+      Minifantasy_TinyOverworldForgottenPlainsTileset_68: -1524655036
+      Minifantasy_TinyOverworldForgottenPlainsTileset_39: 332711178
+      Minifantasy_TinyOverworldForgottenPlainsTileset_75: 234765681
+      Minifantasy_TinyOverworldForgottenPlainsTileset_81: -1573717968
+      Minifantasy_TinyOverworldForgottenPlainsTileset_92: 1026407591
+      Minifantasy_TinyOverworldForgottenPlainsTileset_113: 483319973
+      Minifantasy_TinyOverworldForgottenPlainsTileset_102: 1266001764
+      Minifantasy_TinyOverworldForgottenPlainsTileset_31: -1618759371
+      Minifantasy_TinyOverworldForgottenPlainsTileset_93: 2110784725
+      Minifantasy_TinyOverworldForgottenPlainsTileset_133: -405878187
+      Minifantasy_TinyOverworldForgottenPlainsTileset_122: -664022058
+      Minifantasy_TinyOverworldForgottenPlainsTileset_28: -1043040841
+      Minifantasy_TinyOverworldForgottenPlainsTileset_116: 1424359209
+      Minifantasy_TinyOverworldForgottenPlainsTileset_158: 1108158940
+      Minifantasy_TinyOverworldForgottenPlainsTileset_49: 1346626931
+      Minifantasy_TinyOverworldForgottenPlainsTileset_182: -1721659410
+      Minifantasy_TinyOverworldForgottenPlainsTileset_172: 1831642676
+      Minifantasy_TinyOverworldForgottenPlainsTileset_96: 162816823
+      Minifantasy_TinyOverworldForgottenPlainsTileset_134: 930680354
+      Minifantasy_TinyOverworldForgottenPlainsTileset_141: -964650748
+      Minifantasy_TinyOverworldForgottenPlainsTileset_129: -1088773166
+      Minifantasy_TinyOverworldForgottenPlainsTileset_136: -40816597
+      Minifantasy_TinyOverworldForgottenPlainsTileset_107: 943079060
+      Minifantasy_TinyOverworldForgottenPlainsTileset_181: 2060658423
+      Minifantasy_TinyOverworldForgottenPlainsTileset_97: -1794469106
+      Minifantasy_TinyOverworldForgottenPlainsTileset_37: 1156866205
+      Minifantasy_TinyOverworldForgottenPlainsTileset_25: -1593297551
+      Minifantasy_TinyOverworldForgottenPlainsTileset_145: -2066995750
+      Minifantasy_TinyOverworldForgottenPlainsTileset_69: 2091350149
+      Minifantasy_TinyOverworldForgottenPlainsTileset_24: -1405507072
+      Minifantasy_TinyOverworldForgottenPlainsTileset_105: 1969104372
+      Minifantasy_TinyOverworldForgottenPlainsTileset_114: -116622757
+      Minifantasy_TinyOverworldForgottenPlainsTileset_29: 237383533
+      Minifantasy_TinyOverworldForgottenPlainsTileset_119: 1929538183
+      Minifantasy_TinyOverworldForgottenPlainsTileset_41: 528031883
+      Minifantasy_TinyOverworldForgottenPlainsTileset_74: -730543022
+      Minifantasy_TinyOverworldForgottenPlainsTileset_159: 1809950914
+      Minifantasy_TinyOverworldForgottenPlainsTileset_164: -1043437729
+      Minifantasy_TinyOverworldForgottenPlainsTileset_149: -779680050
+      Minifantasy_TinyOverworldForgottenPlainsTileset_177: -886537953
+      Minifantasy_TinyOverworldForgottenPlainsTileset_35: 1616047655
+      Minifantasy_TinyOverworldForgottenPlainsTileset_160: 1249263912
+      Minifantasy_TinyOverworldForgottenPlainsTileset_89: -858764160
+      Minifantasy_TinyOverworldForgottenPlainsTileset_11: -1147527914
+      Minifantasy_TinyOverworldForgottenPlainsTileset_17: -587267707
+      Minifantasy_TinyOverworldForgottenPlainsTileset_117: 1154705881
+      Minifantasy_TinyOverworldForgottenPlainsTileset_12: 581630892
+      Minifantasy_TinyOverworldForgottenPlainsTileset_174: -1140788955
+      Minifantasy_TinyOverworldForgottenPlainsTileset_58: 197021314
+      Minifantasy_TinyOverworldForgottenPlainsTileset_19: -1056573064
+      Minifantasy_TinyOverworldForgottenPlainsTileset_165: 1658666697
+      Minifantasy_TinyOverworldForgottenPlainsTileset_73: 25266531
+      Minifantasy_TinyOverworldForgottenPlainsTileset_64: -279095433
+      Minifantasy_TinyOverworldForgottenPlainsTileset_152: 1591849703
+      Minifantasy_TinyOverworldForgottenPlainsTileset_146: -1655911235
+      Minifantasy_TinyOverworldForgottenPlainsTileset_120: -436492587
+      Minifantasy_TinyOverworldForgottenPlainsTileset_104: -934979561
+      Minifantasy_TinyOverworldForgottenPlainsTileset_128: -389984423
+      Minifantasy_TinyOverworldForgottenPlainsTileset_61: -466941261
+      Minifantasy_TinyOverworldForgottenPlainsTileset_123: -1741206060
+      Minifantasy_TinyOverworldForgottenPlainsTileset_8: 2134407990
+      Minifantasy_TinyOverworldForgottenPlainsTileset_150: 904561028
+      Minifantasy_TinyOverworldForgottenPlainsTileset_66: -1879515998
+      Minifantasy_TinyOverworldForgottenPlainsTileset_51: -2128324353
+      Minifantasy_TinyOverworldForgottenPlainsTileset_84: 1591546233
+      Minifantasy_TinyOverworldForgottenPlainsTileset_112: -589999102
+      Minifantasy_TinyOverworldForgottenPlainsTileset_115: 172098087
+      Minifantasy_TinyOverworldForgottenPlainsTileset_48: 1164262607
+      Minifantasy_TinyOverworldForgottenPlainsTileset_5: -1349856072
+      Minifantasy_TinyOverworldForgottenPlainsTileset_82: 569971784
+      Minifantasy_TinyOverworldForgottenPlainsTileset_180: -58940094
+      Minifantasy_TinyOverworldForgottenPlainsTileset_94: 783438812
+      Minifantasy_TinyOverworldForgottenPlainsTileset_176: 740466041
+      Minifantasy_TinyOverworldForgottenPlainsTileset_33: 1014904873
+      Minifantasy_TinyOverworldForgottenPlainsTileset_153: -352631686
+      Minifantasy_TinyOverworldForgottenPlainsTileset_23: 374321481
+      Minifantasy_TinyOverworldForgottenPlainsTileset_137: 794143733
+      Minifantasy_TinyOverworldForgottenPlainsTileset_34: 928844047
+      Minifantasy_TinyOverworldForgottenPlainsTileset_67: -152077311
+      Minifantasy_TinyOverworldForgottenPlainsTileset_139: -1519354126
+      Minifantasy_TinyOverworldForgottenPlainsTileset_126: 1157835130
+      Minifantasy_TinyOverworldForgottenPlainsTileset_65: -298582375
+      Minifantasy_TinyOverworldForgottenPlainsTileset_32: 967896038
+      Minifantasy_TinyOverworldForgottenPlainsTileset_171: -1516300215
+      Minifantasy_TinyOverworldForgottenPlainsTileset_38: 198435865
+      Minifantasy_TinyOverworldForgottenPlainsTileset_178: -1178013272
+      Minifantasy_TinyOverworldForgottenPlainsTileset_72: -1294682732
+      Minifantasy_TinyOverworldForgottenPlainsTileset_135: 989750720
+      Minifantasy_TinyOverworldForgottenPlainsTileset_110: 860214323
+      Minifantasy_TinyOverworldForgottenPlainsTileset_18: 1868962702
+      Minifantasy_TinyOverworldForgottenPlainsTileset_2: -178279576
+      Minifantasy_TinyOverworldForgottenPlainsTileset_106: -304147355
+      Minifantasy_TinyOverworldForgottenPlainsTileset_80: -1079776644
+      Minifantasy_TinyOverworldForgottenPlainsTileset_147: -1111041846
+      Minifantasy_TinyOverworldForgottenPlainsTileset_130: -1868893236
+      Minifantasy_TinyOverworldForgottenPlainsTileset_63: -2112707840
+      Minifantasy_TinyOverworldForgottenPlainsTileset_108: 1674209445
+      Minifantasy_TinyOverworldForgottenPlainsTileset_62: -1880615798
+      Minifantasy_TinyOverworldForgottenPlainsTileset_140: 498987210
+      Minifantasy_TinyOverworldForgottenPlainsTileset_87: -560100992
+      Minifantasy_TinyOverworldForgottenPlainsTileset_98: 1180471354
+      Minifantasy_TinyOverworldForgottenPlainsTileset_90: 2008093645
+      Minifantasy_TinyOverworldForgottenPlainsTileset_103: 1967132756
+      Minifantasy_TinyOverworldForgottenPlainsTileset_166: 1655516597
+      Minifantasy_TinyOverworldForgottenPlainsTileset_163: 107111206
+      Minifantasy_TinyOverworldForgottenPlainsTileset_144: 563289189
+      Minifantasy_TinyOverworldForgottenPlainsTileset_76: -494484645
+      Minifantasy_TinyOverworldForgottenPlainsTileset_124: 1921874718
+      Minifantasy_TinyOverworldForgottenPlainsTileset_95: -350575159
+      Minifantasy_TinyOverworldForgottenPlainsTileset_131: 1093435241
+      Minifantasy_TinyOverworldForgottenPlainsTileset_157: -1278430342
+      Minifantasy_TinyOverworldForgottenPlainsTileset_125: 1517247503
+      Minifantasy_TinyOverworldForgottenPlainsTileset_173: -2086325974
+      Minifantasy_TinyOverworldForgottenPlainsTileset_118: 37786209
+      Minifantasy_TinyOverworldForgottenPlainsTileset_7: -2138979998
+      Minifantasy_TinyOverworldForgottenPlainsTileset_70: -519480129
+      Minifantasy_TinyOverworldForgottenPlainsTileset_88: 1789820166
+      Minifantasy_TinyOverworldForgottenPlainsTileset_77: 1033638446
+      Minifantasy_TinyOverworldForgottenPlainsTileset_71: -2053762334
+      Minifantasy_TinyOverworldForgottenPlainsTileset_167: -30890328
+      Minifantasy_TinyOverworldForgottenPlainsTileset_155: 1946331878
+      Minifantasy_TinyOverworldForgottenPlainsTileset_151: 2003545307
+      Minifantasy_TinyOverworldForgottenPlainsTileset_170: 1171803472
+      Minifantasy_TinyOverworldForgottenPlainsTileset_47: 1966793465
+      Minifantasy_TinyOverworldForgottenPlainsTileset_85: -590787056
+      Minifantasy_TinyOverworldForgottenPlainsTileset_9: 475601377
+      Minifantasy_TinyOverworldForgottenPlainsTileset_15: -371811561
+      Minifantasy_TinyOverworldForgottenPlainsTileset_60: 1808500774
+      Minifantasy_TinyOverworldForgottenPlainsTileset_169: 2016176756
+      Minifantasy_TinyOverworldForgottenPlainsTileset_101: -1506836257
+      Minifantasy_TinyOverworldForgottenPlainsTileset_44: -1006538059
+      Minifantasy_TinyOverworldForgottenPlainsTileset_121: -1563692936
+      Minifantasy_TinyOverworldForgottenPlainsTileset_1: 589973086
+      Minifantasy_TinyOverworldForgottenPlainsTileset_45: 1420307027
+      Minifantasy_TinyOverworldForgottenPlainsTileset_183: 1751370061
+      Minifantasy_TinyOverworldForgottenPlainsTileset_22: -1796938534
+      Minifantasy_TinyOverworldForgottenPlainsTileset_83: -1077394908
+      Minifantasy_TinyOverworldForgottenPlainsTileset_6: -398491929
+      Minifantasy_TinyOverworldForgottenPlainsTileset_21: -740777315
+      Minifantasy_TinyOverworldForgottenPlainsTileset_99: -1020526286
+      Minifantasy_TinyOverworldForgottenPlainsTileset_86: -779296814
+      Minifantasy_TinyOverworldForgottenPlainsTileset_57: -394809410
+      Minifantasy_TinyOverworldForgottenPlainsTileset_36: 98337531
+      Minifantasy_TinyOverworldForgottenPlainsTileset_111: 301573747
+      Minifantasy_TinyOverworldForgottenPlainsTileset_168: -2084922932
+      Minifantasy_TinyOverworldForgottenPlainsTileset_142: 1169158298
+      Minifantasy_TinyOverworldForgottenPlainsTileset_26: 1712235682
+      Minifantasy_TinyOverworldForgottenPlainsTileset_42: -1625336476
+      Minifantasy_TinyOverworldForgottenPlainsTileset_162: -398888404
+      Minifantasy_TinyOverworldForgottenPlainsTileset_100: -1693329925
+      Minifantasy_TinyOverworldForgottenPlainsTileset_20: -669752253
+      Minifantasy_TinyOverworldForgottenPlainsTileset_40: -1006879212
+      Minifantasy_TinyOverworldForgottenPlainsTileset_79: -2046313426
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
