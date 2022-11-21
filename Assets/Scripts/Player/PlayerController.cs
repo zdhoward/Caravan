@@ -16,17 +16,24 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        BindInputs();
+
         if (PlayerState.isInOverworld && PlayerState.lastKnownOverworldPosition != null)
             transform.position = PlayerState.lastKnownOverworldPosition;
     }
 
-    void OnInteract()
+    void BindInputs()
+    {
+        InputManager.Instance.playerInputActions.Player.Interact.performed += OnInteract;
+    }
+
+    void OnInteract(InputAction.CallbackContext ctx)
     {
         Vector2 directionNorthSouth = playerMovement.IsFacingSouth ? Vector2.down : Vector2.up;
         Vector2 directionEastWest = playerMovement.IsFacingEast ? Vector2.right : Vector2.left;
 
         // Check Up/Down
-        Debug.DrawLine(transform.position, transform.position + (Vector3)directionNorthSouth, Color.red, 3f);
+        //Debug.DrawLine(transform.position, transform.position + (Vector3)directionNorthSouth, Color.red, 3f);
         RaycastHit2D hit = Physics2D.Raycast(transform.position, directionNorthSouth, 1f, interactableLayerMask);
 
         if (hit.collider != null)
@@ -39,7 +46,7 @@ public class PlayerController : MonoBehaviour
         }
 
         // Check Left/Right
-        Debug.DrawLine(transform.position, transform.position + (Vector3)directionEastWest, Color.red, 3f);
+        //Debug.DrawLine(transform.position, transform.position + (Vector3)directionEastWest, Color.red, 3f);
         hit = Physics2D.Raycast(transform.position, directionEastWest, 1f, interactableLayerMask);
 
         if (hit.collider != null)

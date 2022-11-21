@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     public EventHandler OnMoveCompleteEvent;
 
     [SerializeField] float moveSpeed = .2f;
-    [SerializeField] Input playerInput;
+    //[SerializeField] Input playerInput;
 
     //public Vector2 lastMoveDirection { get; private set; }
 
@@ -18,12 +18,22 @@ public class PlayerMovement : MonoBehaviour
     public bool IsFacingEast { get; private set; } = false;
     public bool IsFacingSouth { get; private set; } = true;
 
-    void OnMove(InputValue value)
+    void Start()
+    {
+        BindInputs();
+    }
+
+    void BindInputs()
+    {
+        InputManager.Instance.playerInputActions.Player.Move.performed += OnMove;
+    }
+
+    void OnMove(InputAction.CallbackContext ctx)
     {
         if (IsMoving)
             return;
 
-        Vector2 inputValue = value.Get<Vector2>();
+        Vector2 inputValue = ctx.ReadValue<Vector2>();
 
         if (inputValue.y > 0) // Move Up
         {
